@@ -324,3 +324,54 @@ canvas {
     height: 70%;
     width: 70%;
 }
+#page9{
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
+    text-align: center;
+    padding: 0.1px;
+    position: relative;
+}
+#page9 h2{
+    margin-top: 30px;
+    color: white;
+    font-size: 30px;
+}
+#page9 #links{
+    width: 40%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 20px;
+}
+#links i{
+    font-size: 24px;
+    color: whitesmoke;
+}
+#page9 input{
+    margin-top: 80px;
+    width: 30%;
+    border: none;
+    background: transparent;
+    padding: 10px;
+    border-bottom: 2px solid white;
+    outline: none;
+}
+#page9 input{
+    color: whitesmoke;
+}
+#page9 button{
+    padding: 12px 40px;
+    background: rgba(255, 255, 255, 0.178);
+    backdrop-filter: blur(10px);
+
+    margin-top: 30px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
