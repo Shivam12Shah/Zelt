@@ -45,12 +45,12 @@ canvas {
     padding: 0px 5px;
 }
 
-#nav>img {
+#nav img {
     width: 7%;
     margin-left: 10px;
 }
 
-#nav>button {
+#nav button {
     padding: 15px 10px;
     border-radius: 10px;
     border: none;
@@ -58,13 +58,13 @@ canvas {
     font-weight: 600;
 }
 
-#center-nav>a {
+#center-nav a {
     text-decoration: none;
     color: #000;
     font-size: 15px;
 }
 
-#page>h1 {
+#page h1 {
     width: 100%;
     font-size: 80px;
     position: absolute;
@@ -76,7 +76,7 @@ canvas {
     transform: translate(-50%, -50%);
 }
 
-#page>h4 {
+#page h4 {
     font-size: 30px;
     position: absolute;
     text-align: center;
@@ -95,7 +95,7 @@ canvas {
     background-color: #E5E1DC;
 }
 
-#page1>h1 {
+#page1 h1 {
     z-index: 99;
     position: absolute;
     left: 50%;
@@ -106,7 +106,7 @@ canvas {
     font-weight: 500;
 }
 
-#page1>h4 {
+#page1 h4 {
     position: absolute;
     left: 50%;
     top: 57%;
@@ -149,12 +149,12 @@ canvas {
     background-color: #E4E0DD;
 }
 
-#page4>h1 {
+#page4 h1 {
     font-weight: 600;
     font-size: 2.7vw;
 }
 
-#page4>h4 {
+#page4 h4 {
     margin-top: 20px;
     font-weight: 500;
     color: #646464;
@@ -182,7 +182,7 @@ canvas {
     height: 100%;
     width: 50%;
 }
-#left-page5>svg{
+#left-page5 svg{
     scale:0.7;
 }
 #right-page5{
@@ -195,15 +195,15 @@ canvas {
     width: 50%;
     padding-left: 60px;
 }
-#right-page5>h1{
+#right-page5 h1{
     font-weight: 600;
 }
-#right-page5>h4{
+#right-page5 h4{
     font-weight: 500;
     width: 70%;
     color: #96969685;
 }
-#right-page5>button{
+#right-page5 button{
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
@@ -225,11 +225,11 @@ canvas {
     width: 50%;
     padding-left: 10vw;
 }
-.left-page6>h1{
+.left-page6 h1{
     font-size: 2.8vw;
     font-weight: 600;
 }
-.left-page6>h4{
+.left-page6 h4{
     margin-top: 20px;
     font-size: 20px;
     font-weight: 500;
@@ -240,7 +240,7 @@ canvas {
     height: 100%;
     width: 50%;
 }
-.right-page6>video{
+.right-page6 video{
     position: absolute;
     left: 50%;
     top: 50%;
@@ -263,11 +263,11 @@ canvas {
     width: 50%;
     padding-left: 10vw;
 }
-.left-page7>h1{
+.left-page7 h1{
     font-size: 2.8vw;
     font-weight: 600;
 }
-.left-page7>h4{
+.left-page7 h4{
     margin-top: 20px;
     font-size: 20px;
     font-weight: 500;
@@ -278,7 +278,7 @@ canvas {
     height: 100%;
     width: 50%;
 }
-.right-page7>video{
+.right-page7 video{
     position: absolute;
     left: 50%;
     top: 50%;
@@ -301,11 +301,11 @@ canvas {
     width: 50%;
     padding-left: 10vw;
 }
-.left-page8>h1{
+.left-page8 h1{
     font-size: 2.8vw;
     font-weight: 600;
 }
-.left-page8>h4{
+.left-page8 h4{
     margin-top: 20px;
     font-size: 20px;
     font-weight: 500;
@@ -316,7 +316,7 @@ canvas {
     height: 100%;
     width: 50%;
 }
-.right-page8>img{
+.right-page8 img{
     position: absolute;
     left: 50%;
     top: 50%;
